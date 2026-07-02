@@ -134,6 +134,8 @@ Created an interactive dashboard featuring:
 ### Dashboard
 
 ![Dashboard](Regional_Analysis_Dashboard-1.png)
+![Dashboard](Regional_Analysis_Dashboard-2.png)
+![Dashboard](Regional_Analysis_Dashboard-3.png)
 
 ---
 
