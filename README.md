@@ -133,11 +133,7 @@ Created an interactive dashboard featuring:
 
 ### Dashboard
 
-![Dashboard](Images/Dashboard.png)
-
-### Sales Overview
-
-![Sales Overview](Images/Sales%20Overview.png)
+![Regional_Sales_Data_Analysis](Dashboard_Images)
 
 ---
 
